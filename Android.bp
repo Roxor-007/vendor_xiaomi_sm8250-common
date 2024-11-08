@@ -7001,6 +7001,7 @@ cc_prebuilt_library_shared {
 		},
 	},
 	compile_multilib: "32",
+	allow_undefined_symbols: true,
 	prefer: true,
 	system_ext_specific: true,
 }
@@ -7035,6 +7036,7 @@ cc_prebuilt_library_shared {
 		},
 	},
 	compile_multilib: "32",
+	allow_undefined_symbols: true,
 	prefer: true,
 	system_ext_specific: true,
 }
